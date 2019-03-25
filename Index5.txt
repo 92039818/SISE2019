@@ -1,0 +1,65 @@
+<html>
+<head>
+<link rel="shortcut icon" href="otorongo.png">
+
+<title>INICIO</title>
+
+</head>
+<body bgcolor="#2271b3" text=""#000000 align="center">
+<Center><h1>Animales de Mar</h1></center>
+
+<a href="inicio5.html">
+<img src="boton-de-inicio-png-2.png" width="15%">
+</a>
+
+<a href="https://www.google.com/maps/place/Avenida+54/data=!4m2!3m1!1s0x9142362ef062e8b9:0x3456e7451ee2a49b?ved=2ahUKEwiMnKTf6OjgAhUOy1kKHVbsBasQ8gEwAHoECAUQAQ">
+<img src="nosotros.png" width="15%">
+</a>
+
+<a href="https://www.facebook.com/Razzoonnn-o-no-284296278389972/">
+<img src="contacto.png" width="15%">
+</a>
+
+
+<img src="reflejoI.png" width="90%">
+
+<center><table width="90%"><tr><td>
+
+<h1>Animales marinos</h1>
+
+<p>Los animales marinos, también conocidos como animales del mar, son aquellos que pasan
+ toda o gran parte de su vida viviendo dentro del mar. Descartando a los animales 
+de ríos y a los animales de los lagos, que aunque son animales acuáticos, 
+no podrían soportar la salinidad del agua de mar. </p>
+
+<h1>clasificación</h1>
+
+<p>Los animales del mar son los más diversos del planeta y es importante destacar que existen animales marinos que no habitan todo el tiempo en el mar. Los animales marinos pueden clasificarse en dos grandes grupos:</p>
+<p>Animales marinos no estrictos: Estos animales marinos no realizan su ciclo de vida (nacen, crecen, se reproducen y mueren) totalmente en el mar ya que necesitan de una superficie de tierra o roca para sobrevivir donde descansan o se reproducen. En el mar se sumergen para alimentarse. Algunos de estos animales pueden ser los pingüinos, las focas o los leones marinos. </p>
+<p>Animales marinos estrictos: Estos animales marinos realizan completamente su ciclo de vida dentro del mar, ya que fuera del mar serían incapaces de sobrevivir como las ballenas, tiburones o delfines.</p>
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sfWqabJ-bcE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+<h1>Características</h1>
+<h1>Alimentacion</h1>
+<p>La mayoría de especies son animales omnívoros. Los crustáceos (como el camarón antártico) consumen zooplancton (animales microscópicos) que a su vez se alimentan del fitoplancton. Las especies carnívoras se alimentan de otros peces.</p>
+<h1>Respiración</h1>
+<p>Para sobrevivir los animales del mar, la mayoría de las especies poseen branquias para poder respirar. Aunque podemos encontrar excepciones como las tortugas o las ballenas que tienen pulmones.</p>
+<h1>Mareas y corrientes</h1>
+<p>El mar al completo está dominado por los movimientos que la gravedad ejerce sobre los océanos. Definidos como mareas y corrientes. Estos movimientos afectan a la vida de los animales que han debido de adaptarse para sobrevivir.</p>
+</center>
+
+</td></tr></table></center>
+
+<a href="file:///F:/video/pagina/vi5.html">
+<img src="Medusa-3-1024x717.png" width="15%">
+</a>
+
+<center>
+<a href="https://aminoapps.com/c/programadoreses/page/user/alexandermarin/Dww0_RKCdfWZagpboDj5dDr2BDe63EdKK">Sobre mi</a> -
+<a href="https://www.facebook.com/Razzoonnn-o-no-284296278389972/">mi facebook</a>
+</center>
+</body>
+</html>
